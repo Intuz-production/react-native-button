@@ -3,11 +3,12 @@ INTUZ presents a very handy React Native component which allows you to have a re
 
 <br>
 <h1>Features</h1>
-* Support of image and text both
-* Customizable style for button and text
-* Positioning image alignment with text easily
-* Customizable space between text and image
-* Manageable both state of button (selected and non-selected)
+
+- Support of image and text both
+- Customizable style for button and text
+- Positioning image alignment with text easily
+- Customizable space between text and image
+- Manageable both state of button (selected and non-selected)
 
 <br>
 <img src="Screenshots/button.jpeg" width=500 alt="Screenshots/button.jpeg">
