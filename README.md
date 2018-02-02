@@ -1,5 +1,5 @@
 <h1>Introduction</h1>
-INTUZ presents a very handy React Native component which allows you to have a ready-made Button controller with support for both image and text inside your next mobile app projects. Try it your self by following below integration, Enjoy!
+INTUZ presents a very handy React Native component which allows you to have a ready-made Button controller with support for both icons and text. Try it your self by following below integration steps, Enjoy!
 
 <br>
 <h1>Features</h1>
